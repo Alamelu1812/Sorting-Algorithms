@@ -1,4 +1,10 @@
 
+/*
+ * Time Complexity: O(n)
+ * Space Complexity: O(n)
+ * Stable? No
+ */
+
 public class CountingSort {
 	
 	public int[] countingSort(int[] nums) {
